@@ -1,8 +1,8 @@
 package one;
 
 public class One {
-    private final double value; // ocena
-    private final double weight; // waga
+    private final double value;
+    private final double weight;
 
     public One(double value, double weight) {
         this.value = value;
